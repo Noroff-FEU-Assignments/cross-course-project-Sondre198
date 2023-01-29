@@ -78,7 +78,7 @@ header input {
     display: flex;
     flex-direction: column;
     background-color: #222222;
-    width: 100vw;
+    width: 1185px;
     margin: auto;
 }
 
@@ -535,6 +535,14 @@ label {
     .categories_containerL {
         justify-content: center;
     }
+    .background {
+        display: flex;
+        flex-direction: column;
+        background-color: #222222;
+        width: 100vw;
+        margin: auto;
+    }
+
     .background h1 {
         margin-left: 0;
         text-align: center;
