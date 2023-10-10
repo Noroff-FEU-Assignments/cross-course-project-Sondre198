@@ -23,7 +23,7 @@ To install this project on your own computer, you can download the repo down bel
 1. Download the repo:
 
 ```bash
-git https://github.com/Noroff-FEU-Assignments/cross-course-project-Sondre198
+https://github.com/Noroff-FEU-Assignments/cross-course-project-Sondre198
 ```
 
 ### Running
