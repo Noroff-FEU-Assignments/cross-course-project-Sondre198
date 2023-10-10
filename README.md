@@ -1,6 +1,6 @@
 # Game Hub
 
-![image](cross-course%20project.png)
+![image](/images/cross-course%20project.png)
 
 The aim for this website was to make it similar to other digital stores for video games, like Steam and the Epic Games store.
 
@@ -31,7 +31,7 @@ git https://github.com/Noroff-FEU-Assignments/cross-course-project-Sondre198
 To run the website you can use this link:
 
 ```bash
-npm https://illustrious-cheesecake-05d902.netlify.app
+https://illustrious-cheesecake-05d902.netlify.app
 ```
 
 ## Contact
