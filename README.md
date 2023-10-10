@@ -38,4 +38,4 @@ https://illustrious-cheesecake-05d902.netlify.app
 
 Here is my email address if you would like to contact me:
 
-[My Email Address](sondre.lie@hotmail.no)
+sondre.lie@hotmail.no
