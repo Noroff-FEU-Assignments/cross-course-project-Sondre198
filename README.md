@@ -1,6 +1,6 @@
 # Game Hub
 
-![image](images/cross-course%20project.png)
+![image](cross-course%20project.png)
 
 The aim for this website was to make it similar to other digital stores for video games, like Steam and the Epic Games store.
 
